@@ -98,7 +98,7 @@ Summary:
 
 The figure below shows the distribution of gate values after training.
 
-![Gate Distribution](gate_distribution.png)
+![Gate Distribution](gate_distribution_1.png)
 
 The distribution indicates that many gates moved toward smaller values, while fewer remained large. This confirms that some connections were suppressed during training.
 
@@ -138,8 +138,3 @@ The program will automatically train the model and generate results.
 The implemented pruning method demonstrates how sparsity can be introduced during training using L1 regularization. The results show that model pruning can be achieved without significantly reducing classification performance.
 
 ---
-
-## Author
-
-Name: Your Name  
-GitHub: Your Username
