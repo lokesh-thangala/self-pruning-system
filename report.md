@@ -38,7 +38,7 @@ Key Findings:
 
 The following figure presents the distribution of gate values after training.
 
-![Gate Distribution](gate_distribution.png)
+![Gate Distribution](gate_distribution_1.png)
 
 For a successful pruning process, the distribution should display:
 
